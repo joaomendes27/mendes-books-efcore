@@ -4,8 +4,8 @@ Projeto feito com o intuito de treinar manipulação de dados utilizando o EF Co
 
 ## Funcionalidades
 - Cadastro, atualização, exclusão e listagem de **Autores**
-- Cadastro e listagem de **Livros**, vinculadas a seus respectivos Autores
-- Filtros por nome de autor e por ano de publicação
+- Cadastro e listagem de **Livros**, vinculados a seus respectivos Autores
+- Filtros por nome de autor e livros por ano de publicação
 
 ## 🛠️ Tecnologias
 - .NET 8.0 + C#
